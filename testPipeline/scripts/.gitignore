@@ -1,0 +1,8 @@
+.vscode
+.idea
+
+terraform.tfvars
+.terraform*
+terraform.tfstate*
+*.out
+.terraform.lock.hcl
